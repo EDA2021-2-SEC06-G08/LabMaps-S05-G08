@@ -1,3 +1,11 @@
+Integrantes:
+
+Camilo Ortiz Cruz c.ortizc@uniandes.edu.co 201821615
+
+Kevin Fernando Gomez Camargo k.gomezc@uniandes.edu.co 202015120
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
